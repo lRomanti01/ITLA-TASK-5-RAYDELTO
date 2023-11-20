@@ -6,7 +6,7 @@ Para usar, debe clonar el respositorio y luego en consola escribir
 
 Captura de pantalla: 
 
-![Captura getData](captures/servicio-web-capture.png)
+![Captura getData](captures/Servicio-web-capture.png)
 
 
 
